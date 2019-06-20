@@ -41,10 +41,7 @@
           <div class="collapse" id="navbar-examples">
             <ul class="nav nav-sm flex-column">
               <li class="nav-item">
-                <router-link to="pageone" class="nav-link">Go to Foo</router-link>
-              </li>
-              <li class="nav-item">
-                <router-link to="pagetwo" class="nav-link">Go to Bar</router-link>
+                <a href="/test" class="nav-link">Vue Test</a>
               </li>
             </ul>
           </div>
