@@ -16,6 +16,7 @@
   <!-- Icons -->
   <link rel="stylesheet" href="{{asset('argon')}}/vendor/nucleo/css/nucleo.css" type="text/css">
   <link rel="stylesheet" href="{{asset('argon')}}/vendor/%40fortawesome/fontawesome-free/css/all.min.css" type="text/css">
+  <link rel="stylesheet" href="{{asset('argon')}}/vendor/animate.css/animate.min.css" type="text/css">
   <!-- Argon CSS -->
   <link rel="stylesheet" href="{{asset('argon')}}/css/argon.min9f1e.css?v=1.1.0" type="text/css">
   <style type="text/css">

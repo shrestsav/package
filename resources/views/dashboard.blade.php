@@ -133,6 +133,3 @@
 
 
 @endsection
-@push('vueScripts')
-
-@endpush
